@@ -3,6 +3,8 @@
 My React App
 A simple React project built to demonstrate component-based development, state management, and custom styling.
 
+The app is available at http://localhost:3000.
+
 Features
 Functional React components
 
@@ -20,8 +22,6 @@ npm install
 Start the development server:
 
 npm start
-
-The app will be available at http://localhost:3000.
 
 Build for production:
 
